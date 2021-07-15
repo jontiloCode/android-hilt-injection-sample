@@ -1,3 +1,3 @@
 # android-latihan-hilt
 
-Sumber : https://blog.mindorks.com/dagger-hilt-tutorial
+Source : https://blog.mindorks.com/dagger-hilt-tutorial
